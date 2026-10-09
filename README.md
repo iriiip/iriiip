@@ -1,46 +1,53 @@
-# 👋 ¡Hola! Soy Desarrollador de Aplicaciones Web
+# Uriel López Vidal
 
-💻 **Desarrollador Web | Backend & Frontend | DAW**
+💻 **Web Developer | Backend & Frontend | Web Application Development**
 
-¡Bienvenido/a a mi perfil! 🚀
+Welcome to my profile! 🚀
 
-Soy desarrollador de aplicaciones web con formación en **Desarrollo de Aplicaciones Web (DAW)** y muchas ganas de seguir creciendo en el mundo del desarrollo de software.
+I'm a web application developer with a background in **Web Application Development (DAW)** and a strong passion for continuing to grow in the software development world.
 
-Me gusta crear aplicaciones útiles, escribir código limpio y aprender nuevas tecnologías. Disfruto tanto trabajando en la lógica del backend como construyendo interfaces en el frontend, siempre buscando mejorar y encontrar soluciones a los problemas.
+I enjoy building useful applications, writing clean code, and learning new technologies. I like working on both backend logic and frontend interfaces, always looking for ways to improve and find effective solutions to problems.
 
-Actualmente, mi objetivo es seguir desarrollando mis habilidades, participar en proyectos interesantes y crecer profesionalmente junto a un buen equipo de desarrollo.
+My current goal is to keep developing my skills, contribute to interesting projects, and grow professionally alongside a great development team.
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tech Stack
 
-### ⭐ Mis puntos fuertes
+### ⭐ Main Stack
 
-* ☕ **Java & Spring Boot** — Desarrollo backend y creación de APIs REST.
-* 🅰️ **TypeScript & Angular** — Desarrollo de aplicaciones frontend modernas.
-* 🗄️ **SQL & PostgreSQL** — Consultas, gestión y diseño de bases de datos.
-* 🔀 **Git & GitHub** — Control de versiones, gestión de repositorios y trabajo colaborativo.
+**☕ Backend**
 
-### 💻 También he trabajado con
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)](https://spring.io/projects/spring-boot)
 
-* 🐘 **PHP & Laravel**
-* 🟨 **JavaScript**
-* 🌐 **HTML5 & CSS3**
+**🅰️ Frontend**
 
-## 🧠 Mi forma de trabajar
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)](https://angular.dev/)
 
-* 📚 **Aprendizaje continuo:** siempre tengo ganas de aprender algo nuevo y mejorar mis habilidades.
-* 🤝 **Trabajo en equipo:** me gusta compartir ideas, colaborar y aprender de otros desarrolladores.
-* 🧩 **Resolución de problemas:** disfruto buscando soluciones eficientes y entendiendo cómo funcionan las cosas.
-* ✨ **Código de calidad:** intento escribir código legible, organizado y fácil de mantener.
-* 🚀 **Mentalidad de crecimiento:** veo cada proyecto como una oportunidad para mejorar y asumir nuevos retos.
+**🗄️ Databases**
 
-## 🎯 ¿Qué busco?
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)](https://www.postgresql.org/)
 
-Seguir creciendo como desarrollador, participar en proyectos reales, ampliar mis conocimientos y formar parte de un equipo donde pueda aportar, aprender y evolucionar profesionalmente.
+**🔀 Version Control & Collaboration**
 
-Siempre abierto a nuevos retos, colaboraciones y oportunidades. 🚀
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
 
-## 📫 ¡Conectemos!
+### 💻 Other Technologies
 
-Si quieres colaborar en algún proyecto, compartir conocimientos o simplemente hablar de tecnología, ¡estaré encantado de conectar contigo!
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)](https://laravel.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-**Gracias por visitar mi perfil. ¡Nos vemos entre líneas de código!** 👨‍💻
+---
+
+## 🧠 My Approach to Development
+
+* 📚 **Continuous Learning:** I'm always eager to learn something new and improve my skills.
+* 🤝 **Teamwork:** I enjoy sharing ideas, collaborating, and learning from other developers.
+* 🧩 **Problem-Solving:** I enjoy finding efficient solutions and understanding how things work.
+* ✨ **Code Quality:** I strive to write clean, readable, well-organized, and maintainable code.
+* 🚀 **Growth Mindset:** I see every project as an opportunity to improve and take on new challenges.
