@@ -41,3 +41,11 @@ My current goal is to keep developing my skills, contribute to interesting proje
 * 🧩 **Problem-Solving:** I enjoy finding efficient solutions and understanding how things work.
 * ✨ **Code Quality:** I strive to write clean, readable, well-organized, and maintainable code.
 * 🚀 **Growth Mindset:** I see every project as an opportunity to improve and take on new challenges.
+
+## 📫 Let's Connect!
+
+I'm always open to new opportunities, collaborations, and interesting projects. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/uriel-lópez-vidal-228465353/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:uriellopezvidal@gmail.com)
+[![CV](https://img.shields.io/badge/My_CV-181717?style=flat-square\&logo=adobeacrobatreader\&logoColor=white)](./CV.pdf)
